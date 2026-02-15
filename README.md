@@ -1,1 +1,1 @@
-MiCROGPT SERIES INSPIRED BY "Andrej Karpathy"
+MICROGPT SERIES INSPIRED BY "Andrej Karpathy"
